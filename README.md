@@ -1,4 +1,4 @@
-new_repo
+zf-tutorial
 ========
 
-new_repo
+Это мои первые шаги обучения в Zend FrameWorke 2.0
